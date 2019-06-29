@@ -8,3 +8,25 @@ Créée sur l'île de la Réunion et portée par l'association des 3Peaks de Man
 
 ## Autre dépots du projets :
 - https://github.com/Nasjoe/TiBillet-Cashless
+
+
+## Licence :
+
+	Copyright 2017 2019+* - Jonas TURBEAUX - GDNA - 3Peaks.
+	La distribution et l'utilisation de ce programme sont régies par la GPL version 3 ou ultérieure.
+	Les auteurs demandent juste à être invités à chaque évènement où ce système est mis en place ! :) 
+	Et puis si vous en faites une utilisation commerciale et que vous gagnez du fric avec, 
+	soyez sympa, faites un don ! https://www.3peaks.fr/
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
