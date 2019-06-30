@@ -13,7 +13,7 @@ Créée sur l'île de la Réunion et portée par l'association des 3Peaks de Man
 ## Landing Page.
 
 Une simple page statique propulsée par nginx et docker.
-Le docker compose comporte des informations supplémentaire nécéssaires au fonctionnement avec le service Traeffik.
+Le docker compose comporte des informations supplémentaires nécéssaires au fonctionnement avec le service Traefik.
 
 ## Licence :
 
