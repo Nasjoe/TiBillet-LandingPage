@@ -2,7 +2,7 @@
 
 ### Hébergé sur www.tibillet.re
 
-Un dépot faisant parti du projet TiBillet.
+Un dépot faisant parti du projet TiBillet :
 Application 360° de billetterie et de système cashless pour cafés, associations, salles de concerts, festivals et tout évènements culturels.
 Créée sur l'île de la Réunion et portée par l'association des 3Peaks de Manapany ( www.3peaks.fr ) et l'entreprise GDNA ( www.gdna.re )
 
@@ -10,6 +10,10 @@ Créée sur l'île de la Réunion et portée par l'association des 3Peaks de Man
 - https://github.com/Nasjoe/TiBillet-Cashless
 - https://github.com/Nasjoe/TiBillet-LandingPage
 
+## Landing Page.
+
+Une simple page statique propulsée par nginx et docker.
+Le docker compose comporte des informations supplémentaire nécéssaires au fonctionnement avec le service Traeffik.
 
 ## Licence :
 

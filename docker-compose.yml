@@ -20,7 +20,7 @@ services:
         # - "traefik.backend=clmanap_django"
         - "traefik.port=80"
         - "traefik.backend.loadbalancer.stickiness=true"
-        - "traefik.frontend.rule=Host:***.***.***"
+        - "traefik.frontend.rule=Host:www.trucmuche.com"
         - "traefik.enable=true"
 
 networks:
