@@ -15,6 +15,10 @@ Créée sur l'île de la Réunion et portée par l'association des 3Peaks de Man
 Une simple page statique propulsée par nginx et docker.
 Le docker compose comporte des informations supplémentaires nécéssaires au fonctionnement avec le service Traefik.
 
+La ligne importante : 
+     ´´´- ./Template:/usr/share/nginx/html´´´
+Nginx s'occupe du reste. Rien d'autre à faire ! 
+
 ## Licence :
 
 	Copyright 2017 2019+* - Jonas TURBEAUX - GDNA - 3Peaks.
